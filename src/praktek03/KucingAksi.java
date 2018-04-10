@@ -9,5 +9,11 @@ public class KucingAksi {
         
         k.cetakinfo();
         
+        System.out.print("Jenisnya \t : ");
+        System.out.println(k.getJenis());
+        System.out.print("Warnanya \t : ");
+        System.out.println(k.getWarna());
+        System.out.print("Harganya \t : ");
+        System.out.println(k.getHarga());
 }
 }
