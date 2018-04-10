@@ -6,5 +6,12 @@ public class KucingBesar extends Kucing{
         void throttle(){
             System.out.println("ROAAAAARRRRRR........");
         }
-        
+       
+    public String getRasKucing() {
+        return RasKucing;
+    }
+
+    public void setRasKucing(String RasKucing) {
+        this.RasKucing = RasKucing;
+    } 
 }
