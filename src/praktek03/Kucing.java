@@ -8,6 +8,7 @@ public class Kucing {
     void cetakinfo(){ 
     System.out.println("Jenis kucing \t : "+jenis+"\n"+
                 "warna kucing \t : "+warna+"\n"+"Harga kucing \t : "+harga);
+    System.out.println("");
 }
 
     public String getJenis() {

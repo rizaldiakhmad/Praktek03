@@ -4,7 +4,7 @@ public class KucingBesar extends Kucing{
         private String RasKucing;
         
         void throttle(){
-            System.out.println("ROAAAAARRRRRR........");
+            System.out.println("NGAUUUUUUUUUNG.........");
         }
        
     public String getRasKucing() {
